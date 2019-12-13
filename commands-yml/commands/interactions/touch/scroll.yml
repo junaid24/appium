@@ -1,6 +1,6 @@
 ---
 name: Scroll
-short_description: Scroll on the touch screen using finger based motion events
+short_description: Scroll on the non touch screen using finger based motion events
 
 example_usage:
   java:
